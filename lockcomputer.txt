@@ -1,0 +1,35 @@
+REM Author: yur mom
+REM Description: Opens Notepad and Spongebob tells you to lock your computer
+REM Version:	1.0
+DELAY 2000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+GUI UPARROW
+DELAY 500
+
+STRING       .--..--..--..--..--..--.
+STRING     .' \  (`._   (_)     _   \
+STRING   .'    |  '._)         (_)  |
+STRING   \ _.')\      .----..---.   /
+STRING   |(_.'  |    /    .-\-.  \  |
+STRING   \     0|    |   ( O| O) | o|
+STRING    |  _  |  .--.____.'._.-.  |
+STRING    \ (_) | o         -` .-`  |                   YOU SHOULD PROBABLY
+STRING     |    \   |`-._ _ _ _ _\ /                    LOCK YOUR COMPUTER
+STRING     \    |   |  `. |_||_|   |                    WHEN YOU WALK AWAY
+STRING     | o  |    \_      \     |     -.   .-.
+STRING     |.-.  \     `--..-'   O |     `.`-' .'
+STRING   _.'  .' |     `-.-'      /-.__   ' .-'
+STRING .' `-.` '.|='=.='=.='=.='=|._/_ `-'.'
+STRING `-._  `.  |________/\_____|    `-.'
+STRING    .'   ).| '=' '='\/ '=' |
+STRING    `._.`  '---------------'
+STRING            //___\   //___\
+STRING              ||       ||
+STRING              ||_.-.   ||_.-.
+STRING             (_.--__) (_.--__)
+DELAY 100
+GUI l
